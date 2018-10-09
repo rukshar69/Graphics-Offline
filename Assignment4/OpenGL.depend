@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1532255235 source:c:\users\rukshar alam\documents\studies\4-2\graphics sessional\ray tracing\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"FILE2.h"
+
+1392007564 c:\users\rukshar alam\documents\studies\4-2\graphics sessional\ray tracing\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532234939 c:\users\rukshar alam\documents\studies\4-2\graphics sessional\ray tracing\opengl\opengl_codeblocks\file2.h
+	<vector>
+	"bitmap_image.hpp"
+	<iostream>
+
+1495155204 c:\users\rukshar alam\documents\studies\4-2\graphics sessional\ray tracing\opengl\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
